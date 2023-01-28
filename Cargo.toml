@@ -1,5 +1,6 @@
 [package]
 name = "pwdf"
+description = "join current path with given path"
 version = "0.1.0"
 edition = "2021"
 
