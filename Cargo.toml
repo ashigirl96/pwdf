@@ -1,11 +1,12 @@
 [package]
 name = "pwdf"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["reon <reonreon3reon@gmail.com>"]
 edition = "2021"
 
 description = "join current path with given path"
 
+homepage = "https://crates.io/crates/pwdf"
 repository = "https://github.com/ashigirl96/pwdf"
 
 readme = "README.md"
