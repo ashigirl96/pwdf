@@ -1,10 +1,18 @@
 [package]
 name = "pwdf"
-description = "join current path with given path"
 version = "0.1.0"
+authors = ["reon <reonreon3reon@gmail.com>"]
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+description = "join current path with given path"
+
+repository = "https://github.com/ashigirl96/pwdf"
+
+readme = "README.md"
+
+keywords = ["pwd", "pwdf"]
+categories = ["shell"]
+license = "MIT"
 
 [dependencies]
 anyhow = { version = "1.0.68", features = ["backtrace"] }
