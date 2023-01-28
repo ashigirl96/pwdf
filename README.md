@@ -1,9 +1,14 @@
-# pwdf
+## pwdf
 
 join current path with given path
 
+## Install
 
-# Example
+```
+cargo install pwdf
+```
+
+## Example
 
 ```shell
 > pwd
@@ -15,4 +20,10 @@ join current path with given path
 ```shell
 > pwdf ../pwdf/Cargo.lock
 /Users/ashigirl96/.ghq/src/github.com/ashigirl96/pwdf/Cargo.lock
+```
+
+## More...
+
+```shell
+alias pwd=pwdf
 ```
